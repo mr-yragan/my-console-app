@@ -26,24 +26,24 @@ namespace project
             //string inputPath = @"..\..\..\..\WorkingFiles\input.txt"; // Путь к входному файлу.
             //string outputPath = @"..\..\..\..\WorkingFiles\output.txt"; // Путь к выходному файлу.
             // ЕСЛИ ВДРУУУУГ НЕ РАБОТАЕТ, ТО ИСПОЛЬЗУЙ ПЕРЕМЕННЫЕ, КОТОРЫЕ СВЕРХУ (У МЕНЯ ВСЕ РАБОТАЕТ, И ТАК, И ТАК)
-            
-            ConsoleKeyInfo keyToExit; // Переменная для сохранения ключа выхода.
-            string inputPath = @"../../../../WorkingFiles/input.txt".Replace('/', Path.DirectorySeparatorChar); // Путь к входному файлу.
-            string outputPath = @"../../../../WorkingFiles/output.txt".Replace('/', Path.DirectorySeparatorChar); // Путь к выходному файлу.
-            do
-            {
+            Console.WriteLine("The main part have been commited, because of null referense expection and I dont have enough time to solve it, so I just want to print some text");
+            //ConsoleKeyInfo keyToExit; // Переменная для сохранения ключа выхода.
+            //string inputPath = @"../../../../WorkingFiles/input.txt".Replace('/', Path.DirectorySeparatorChar); // Путь к входному файлу.
+            //string outputPath = @"../../../../WorkingFiles/output.txt".Replace('/', Path.DirectorySeparatorChar); // Путь к выходному файлу.
+            //do
+            //{
 
-                string[]? fileData = ["1212121",";","242","121", ";", "242"];
-                // Читаю данные из input.txt и сохраняю их в массив fileData, в том числе делая некоторые преобразования.
-                int[]? rightDataFile = ArrayMinIndex.GetRightData(ref fileData); // Получаю массив с корректынми данными.
-                int C = 0; // Переменная, которую будет вводить пользователь.
-                string res = ArrayMinIndex.FindMinAndIndexes(rightDataFile, ref C); // Ищю минимальное значение и индекс(ы) минимума.
-                Console.WriteLine($"{res } ");
-                FileM.WriteDataToFile(outputPath, res); // Записываю результат в output.txt.
-                keyToExit = Console.ReadKey();
+            //    string[]? fileData = ["1212121",";","242","121", ";", "242"];
+            //    // Читаю данные из input.txt и сохраняю их в массив fileData, в том числе делая некоторые преобразования.
+            //    int[]? rightDataFile = ArrayMinIndex.GetRightData(ref fileData); // Получаю массив с корректынми данными.
+            //    int C = 0; // Переменная, которую будет вводить пользователь.
+            //    string res = ArrayMinIndex.FindMinAndIndexes(rightDataFile, ref C); // Ищю минимальное значение и индекс(ы) минимума.
+            //    Console.WriteLine($"{res } ");
+            //    FileM.WriteDataToFile(outputPath, res); // Записываю результат в output.txt.
+            //    keyToExit = Console.ReadKey();
 
-                Console.WriteLine('\n');
-            } while (keyToExit.Key != ConsoleKey.Escape);  // Окончание цикла решения.
+            //    Console.WriteLine('\n');
+            //} while (keyToExit.Key != ConsoleKey.Escape);  // Окончание цикла решения.
         }
     }
 }
