@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\kolya\\OneDrive\\Desktop\\DOCKERPROJECT\\solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CC0C005-D2A1-405C-8E87-D199D01654E9}|project\\project.csproj|c:\\users\\kolya\\onedrive\\desktop\\dockerproject\\solution\\project\\filem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC0C005-D2A1-405C-8E87-D199D01654E9}|project\\project.csproj|solutionrelative:project\\filem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC0C005-D2A1-405C-8E87-D199D01654E9}|project\\project.csproj|c:\\users\\kolya\\onedrive\\desktop\\dockerproject\\solution\\project\\arrayminindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC0C005-D2A1-405C-8E87-D199D01654E9}|project\\project.csproj|solutionrelative:project\\arrayminindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CC0C005-D2A1-405C-8E87-D199D01654E9}|project\\project.csproj|c:\\users\\kolya\\onedrive\\desktop\\dockerproject\\solution\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CC0C005-D2A1-405C-8E87-D199D01654E9}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileM.cs",
+              "DocumentMoniker": "C:\\Users\\kolya\\OneDrive\\Desktop\\DOCKERPROJECT\\solution\\project\\FileM.cs",
+              "RelativeDocumentMoniker": "project\\FileM.cs",
+              "ToolTip": "C:\\Users\\kolya\\OneDrive\\Desktop\\DOCKERPROJECT\\solution\\project\\FileM.cs",
+              "RelativeToolTip": "project\\FileM.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwHoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:16:12.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayMinIndex.cs",
+              "DocumentMoniker": "C:\\Users\\kolya\\OneDrive\\Desktop\\DOCKERPROJECT\\solution\\project\\ArrayMinIndex.cs",
+              "RelativeDocumentMoniker": "project\\ArrayMinIndex.cs",
+              "ToolTip": "C:\\Users\\kolya\\OneDrive\\Desktop\\DOCKERPROJECT\\solution\\project\\ArrayMinIndex.cs",
+              "RelativeToolTip": "project\\ArrayMinIndex.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:16:08.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kolya\\OneDrive\\Desktop\\DOCKERPROJECT\\solution\\project\\Program.cs",
               "RelativeDocumentMoniker": "project\\Program.cs",
