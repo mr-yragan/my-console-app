@@ -26,7 +26,7 @@ namespace project
             //string inputPath = @"..\..\..\..\WorkingFiles\input.txt"; // Путь к входному файлу.
             //string outputPath = @"..\..\..\..\WorkingFiles\output.txt"; // Путь к выходному файлу.
             // ЕСЛИ ВДРУУУУГ НЕ РАБОТАЕТ, ТО ИСПОЛЬЗУЙ ПЕРЕМЕННЫЕ, КОТОРЫЕ СВЕРХУ (У МЕНЯ ВСЕ РАБОТАЕТ, И ТАК, И ТАК)
-            Console.WriteLine("The main part have been commited, because of null referense expection and I dont have enough time to solve it, so I just want to print some text");
+            Console.WriteLine("Hello! The main part have been commited, because of null referense expection and I dont have enough time to solve it, so I just want to print some text");
             //ConsoleKeyInfo keyToExit; // Переменная для сохранения ключа выхода.
             //string inputPath = @"../../../../WorkingFiles/input.txt".Replace('/', Path.DirectorySeparatorChar); // Путь к входному файлу.
             //string outputPath = @"../../../../WorkingFiles/output.txt".Replace('/', Path.DirectorySeparatorChar); // Путь к выходному файлу.
