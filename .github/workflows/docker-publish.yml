@@ -26,7 +26,8 @@ jobs:
         run: dotnet build project/project.csproj
 
       - name: Publish project
-        run: dotnet publish -c Release -o /app/publish
+        run: dotnet publish project/project.csproj -c Release -o /app/publish
+
 
       - name: Log in to Docker Hub
         uses: docker/login-action@v2
